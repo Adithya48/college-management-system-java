@@ -15,7 +15,7 @@ public class SearchStudent extends JFrame {
 
     private static final String url = "jdbc:mysql://127.0.0.1:3306/demo";
     private static final String userName = "root";
-    private static final String password = "adithya@2004";
+    private static final String password = "";
 
     private static final long serialVersionUID = 1L;
     private JTextField rollNumberField;
